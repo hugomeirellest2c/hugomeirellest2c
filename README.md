@@ -1,4 +1,4 @@
 ### Olá! Me chamo Hugo!
 
-- 🔭 Huje eu trabalho como Desenvolvedor Junior
-- 🌱 Estou estudando HTML e CSS
+- 🔭 Hoje eu trabalho como Desenvolvedor Junior
+- 🌱 Atualmente estudando HTML e CSS
