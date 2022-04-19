@@ -1,6 +1,6 @@
-### Olá! Me chamo Hugo!
+### Olá! Tudo beleza? Me chamo Hugo!
 
-- Hoje eu trabalho como Desenvolvedor Junior
+- Trabalho como Desenvolvedor Junior
 - Atualmente estudando HTML e CSS
 
   ##
