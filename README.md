@@ -1,7 +1,7 @@
 ### Olá! Tudo beleza? Me chamo Hugo!
 
 - Trabalho como Desenvolvedor Junior
-- Atualmente estudando HTML e CSS
+- Atualmente estudando react! 
 
   ##
 
