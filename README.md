@@ -4,7 +4,7 @@
 - Atualmente estudando react! 
 
   ##
-
+<br />  
 <div align="center">
   <a href="https://github.com/hugomeirellest2c">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugomeirellest2c&show_icons=true&theme=dark&include_all_commits=true&count_private=true&PAT_1=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"/>
@@ -21,6 +21,7 @@
   
   ##
 
+<br /> 
 <div align="center">
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
