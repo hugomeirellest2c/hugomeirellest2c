@@ -1,7 +1,7 @@
 ### Olá! Tudo beleza? Me chamo Hugo!
 
 - Trabalho como Desenvolvedor Junior
-- Atualmente estudando react! 
+- Atualmente estudando Next.js! 
 
   ##
 <br />  
